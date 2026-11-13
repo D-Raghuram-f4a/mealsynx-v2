@@ -17,7 +17,7 @@
 
 ## Database Configuration (`mealsynxf4a` / `mealsynxv2db`)
 
-The SQL setup script is included in the repository at **`sql/mealsynxf4a_mysql84_setup.sql`**.
+The SQL setup script is included in the repository at **`sql/MealSynxV2.sql`**.
 
 * **MySQL Workbench Connection Name:** `mealsynxf4a or your connection name`
 
