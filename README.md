@@ -92,3 +92,7 @@ The SQL setup script is included in the repository at **`sql/MealSynxV2.sql`**.
 | **What-If Simulator** | Global canteen scenarios only | Filter by **Canteen + Dish** or ask **Natural Language** questions | 
 | **Payroll & Worker Advisor** | Manual wage entry | Automated monthly salary reminders, one-click payout & **NLP Worker Improvement Advisor** | 
 | **Database Schema** | `mealsynx` | `mealsynxv2db` (`mealsynxf4a` connection) + `.dat` persistent failover |
+
+---
+
+> **Original Version (V1):** Looking for the initial academic release? Check out [MealSynx V1 on GitHub](https://github.com/D-Raghuram-f4a/mealsynx).
